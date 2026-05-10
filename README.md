@@ -13,6 +13,7 @@
 ---
 ---
 ---
+---
 
 ## 🛠️ Habilidades Técnicas
 - **Bases de Datos:** SQL (PostgreSQL, MySQL)
