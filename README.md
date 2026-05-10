@@ -1,13 +1,18 @@
 <p align="center">
-  <img src="foto-perfil.jpg.jpeg" width="180" height="180" style="border-radius: 50%; object-fit: cover; border: 4px solid #3081D0; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
+  <img src="foto-perfil.jpg.jpeg" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 5px solid #3081D0; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
 </p>
 
 <h1 align="center">Hola, soy Jonathan Castillejos 👋</h1>
 
 <p align="center">
   <strong>Ingeniero & Analista de Datos</strong>
-</p>Me especializo en transformar datos en información estratégica utilizando SQL, Python y Excel. Mi enfoque está en la optimización de procesos y la medición de rentabilidad.
+</p>
 
+<p align="center">
+  Me especializo en transformar datos en información estratégica utilizando SQL, Python y Excel. Mi enfoque está en la optimización de procesos y la medición de rentabilidad.
+</p>
+
+---
 ---
 
 ## 🛠️ Habilidades Técnicas
