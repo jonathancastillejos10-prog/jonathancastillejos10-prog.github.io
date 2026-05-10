@@ -1,43 +1,18 @@
-# Jonathan Castillejos Castillejos 👋
-### Data Analyst | Ingeniero Mecánico
+# Hola, soy Jonathan Castillejos 👋
 
-Ingeniero Mecánico especializado en el sector energético con sólida base técnica en análisis de datos. Poseo dominio de SQL, Python y herramientas de visualización para transformar métricas operativas en decisiones estratégicas. Mi enfoque combina la ingeniería de campo con la inteligencia de datos.
-
----
+Ingeniero con enfoque en el análisis de datos. Aquí presento mis proyectos técnicos y habilidades.
 
 ## 🛠️ Habilidades Técnicas
-* **Lenguajes y Bases de Datos:** Python (Pandas, NumPy, Matplotlib), SQL (PostgreSQL).
-* **Análisis de Datos:** Limpieza de datos (Data Cleaning), Análisis Exploratorio (EDA), Estadística Descriptiva, Análisis de Embudo (Funnel Analysis) y Análisis de Cohortes.
-* **Visualización:** Excel Avanzado (Tablas dinámicas).
-* **Idiomas:** Español (Nativo) | Inglés (Técnico / Intermedio).
+- **Lenguajes:** SQL (PostgreSQL), Python
+- **Herramientas:** GitHub, Google Sheets, Análisis de Datos
 
----
-
-## 📈 Proyectos Destacados (TripleTen Bootcamp)
+## 📈 Proyectos Destacados
 
 ### 1. Análisis de Desempeño Financiero — Adventure Works (SQL)
 En este proyecto realicé una extracción y limpieza de datos, cálculo de KPIs (Margen, ROI) y validación de calidad de datos utilizando PostgreSQL.
 [Ver código en GitHub](https://github.com/jonathancastillejos10-prog/proyectos-sql)
-**Descripción:** Proyecto de análisis de comportamiento de usuarios para optimizar la conversión y reducir el abandono en la plataforma.
-[Ver Proyecto en GitHub]<img width="934" height="172" alt="image" src="https://github.com/user-attachments/assets/0bbc3187-64cb-43b6-8c3f-ee94e94fa91f" />
-
-* **Tecnologías:** SQL (PostgreSQL), Funnel Analysis, Cohort Analysis.
-* **Logro:** Identifiqué puntos críticos de fricción en el user journey y modelé escenarios económicos para aumentar la retención de clientes.
-
-### 2. Movilidad Urbana y Productividad en LATAM
-**Descripción:** Análisis del impacto de los tiempos de traslado en la productividad económica utilizando datasets complejos de ciudades principales.
-* **Tecnologías:** Python, Pandas, Estructuración de Datasets.
 
 ---
-
-## 💼 Experiencia Profesional
-* **Jefe de Equipo de Guardia de Seguridad** | Bi Xaibá S.A de C.V. (2020 - Actualidad)
-* **Guardia de Seguridad** | Viento y Luz (2018 - 2020)
-* **Residencia Profesional** | Ingeteam S.A de C.V. (2017)
-
----
-
-## 📫 Contacto
-* **LinkedIn:** [Perfil Profesional](https://www.linkedin.com/in/jonathan-castillejos-analyst/)
-* **Email:** jonathan_castillejos10@hotmail.com
-* **Ubicación:** Oaxaca, México.****
+📫 **¿Cómo contactarme?**
+- [LinkedIn](TU_LINK_DE_LINKEDIN_AQUI)
+- Email: tu-correo@ejemplo.com
