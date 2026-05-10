@@ -1,5 +1,6 @@
-<img src="foto-perfil.jpg.jpeg" width="150" height="150" align="right" style="border-radius: 50%;">
-Me especializo en transformar datos en información estratégica utilizando SQL, Python y Excel. Mi enfoque está en la optimización de procesos y la medición de rentabilidad.
+<p align="center">
+  <img src="foto-perfil.jpg.jpeg" width="180" height="180" style="border-radius: 50%; border: 4px solid #FDFDFD; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+</p>e especializo en transformar datos en información estratégica utilizando SQL, Python y Excel. Mi enfoque está en la optimización de procesos y la medición de rentabilidad.
 
 ---
 
