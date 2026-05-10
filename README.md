@@ -15,8 +15,12 @@ Ingeniero Mecánico especializado en el sector energético con sólida base téc
 
 ## 📈 Proyectos Destacados (TripleTen Bootcamp)
 
-### 1. Análisis de Embudo y Retención — MercadoLibre
+### 1. Análisis de Desempeño Financiero — Adventure Works (SQL)
+En este proyecto realicé una extracción y limpieza de datos, cálculo de KPIs (Margen, ROI) y validación de calidad de datos utilizando PostgreSQL.
+[Ver código en GitHub](https://github.com/jonathancastillejos10-prog/proyectos-sql)
 **Descripción:** Proyecto de análisis de comportamiento de usuarios para optimizar la conversión y reducir el abandono en la plataforma.
+[Ver Proyecto en GitHub]<img width="934" height="172" alt="image" src="https://github.com/user-attachments/assets/0bbc3187-64cb-43b6-8c3f-ee94e94fa91f" />
+
 * **Tecnologías:** SQL (PostgreSQL), Funnel Analysis, Cohort Analysis.
 * **Logro:** Identifiqué puntos críticos de fricción en el user journey y modelé escenarios económicos para aumentar la retención de clientes.
 
