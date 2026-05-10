@@ -24,11 +24,14 @@ En este proyecto realicé una extracción y limpieza de datos, cálculo de KPIs 
 
 ---
 
+---
+
 ## 📫 Contacto
-¿Te gustaría charlar sobre datos o ingeniería? ¡Conectemos!
+¡Conectemos y hablemos de datos!
 
-- **LinkedIn:** (https://www.linkedin.com/in/jonathan-castillejos-analyst/?skipRedirect=true)
-- **Email:** jonathan_castillejos10@hotmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil-aqui/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@gmail.com)
 
+---
 ---
 *“Los datos solo son ruido si no sabes qué preguntas hacerles.”*
