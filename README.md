@@ -1,5 +1,4 @@
-<img src="foto-perfil.jpg" width="150" height="150" align="right" style="border-radius: 50%;">
-**Ingeniero & Analista de Datos**
+<img src="foto-perfil.jpg" width="150" height="150" align="right" style="border-radius: 50%;">**Ingeniero & Analista de Datos**
 
 Me especializo en transformar datos en información estratégica utilizando SQL, Python y Excel. Mi enfoque está en la optimización de procesos y la medición de rentabilidad.
 
