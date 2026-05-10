@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Ingeniero & Analista de Datos</strong>
-</p>e especializo en transformar datos en información estratégica utilizando SQL, Python y Excel. Mi enfoque está en la optimización de procesos y la medición de rentabilidad.
+</p>Me especializo en transformar datos en información estratégica utilizando SQL, Python y Excel. Mi enfoque está en la optimización de procesos y la medición de rentabilidad.
 
 ---
 
