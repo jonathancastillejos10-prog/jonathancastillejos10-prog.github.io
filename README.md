@@ -1,5 +1,4 @@
-<img src="foto-jonathan.jpg" width="150" height="150" align="right" style="border-radius: 50%;">
-# Hola, soy Jonathan Castillejos 👋
+<img src="foto-perfil.jpg" width="150" height="150" align="right" style="border-radius: 50%;"># Hola, soy Jonathan Castillejos 👋
 
 **Ingeniero & Analista de Datos**
 
