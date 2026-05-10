@@ -1,11 +1,14 @@
 <p align="center">
-  <img src="foto-perfil-jonathan.png" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 5px solid #3081D0; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+  <img src="foto-perfil-jonathan.png" width="200" height="200" style="border-radius: 999px; object-fit: cover; display: block;">
 </p>
 
 <h1 align="center">Hola, soy Jonathan Castillejos 👋</h1>
 
 <p align="center">
-  <strong>Ingeniero & Analista de Datos</strong><br>
+  <strong>Ingeniero & Analista de Datos</strong>
+</p>
+
+<p align="center">
   Me especializo en transformar datos en información estratégica utilizando SQL, Python y Excel.
 </p>
 
