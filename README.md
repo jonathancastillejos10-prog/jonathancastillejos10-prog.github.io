@@ -1,18 +1,62 @@
+<div align="center">
+  <img src="./foto-perfil-jonathan-modified.png" width="180px" style="border-radius: 50%; border: 3px solid #0077B5;">
+  <h1>¡Hola! Soy Jonathan Castillejos 👋</h1>
+  <p><strong>Analista de Datos | Especialista en SQL, Python y Business Intelligence</strong></p>
+  <p><i>"Transformando datos complejos en decisiones estratégicas de negocio."</i></p>
+</div>
+
+---
+
+## 📂 Proyectos Destacados
+
 ### 1. Análisis de Operaciones y Ventas - Walmart 🛒
 > **Resumen:** Optimización de la eficiencia comercial mediante el análisis de rendimiento por departamento y gestión de inventarios.
 
 <div align="center">
-  <img src="./Proyecto_Walmart/grafico-Eficiencia.png" width="80%" alt="Dashboard Walmart">
+  <img src="./Proyecto_Walmart/grafico-Eficiencia.png" width="85%" alt="Dashboard Walmart">
 </div>
 
 * **Problema:** Identificar disparidades en la rentabilidad por metro cuadrado entre departamentos para optimizar la distribución de la tienda.
-* **Acción:** Procesamiento de datos masivos con **SQL** (PostgreSQL) para limpieza y agregación, seguido de una arquitectura de dashboard en **Google Sheets** para visualización dinámica.
-* **Resultado:** Se identificó que el departamento de "Otros" y "Cuidado de Mascotas" tienen la mayor eficiencia, sugiriendo una expansión de pasillos en estas áreas.
+* **Acción:** Procesamiento de datos masivos con **SQL** (PostgreSQL) para limpieza y agregación, seguido de una arquitectura de dashboard en **Google Sheets**.
+* **Resultado:** Se identificó que el departamento de "Cuidado de Mascotas" tiene una eficiencia superior, sugiriendo una expansión estratégica de pasillos.
 
-**Herramientas utilizadas:** ![SQL](https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=mysql&logoColor=white) 
-![Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Análisis_de_Datos-FF6F00?style=flat-square)
+**Herramientas:** ![SQL](https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=mysql&logoColor=white) ![Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white) ![Insight](https://img.shields.io/badge/Business_Intelligence-FF6F00?style=flat-square)
 
-**Recursos del proyecto:**
-* [📂 Ver carpeta con Scripts SQL y Reportes](./Proyecto_Walmart/)
-* [📊 Ver Dashboard Interactivo (Google Sheets)](TU_LINK_DE_COMPARTIR_AQUI)
+[📂 Ver Código y Reportes](./Proyecto_Walmart/) | [📊 Dashboard en Vivo](TU_LINK_DE_SHEETS_AQUI)
+
+---
+
+### 2. Análisis de Embudo y Retención - Mercado Libre 📦
+> **Resumen:** Análisis técnico del ciclo de vida del usuario y cálculo de retención por cohortes.
+
+<div align="center">
+  <img src="./dashboard-ml.png" width="85%" alt="SQL Mercado Libre">
+</div>
+
+* **Problema:** Medir la fidelidad de los usuarios tras el registro inicial para optimizar campañas de marketing.
+* **Acción:** Implementación de consultas SQL avanzadas (CTEs y agregaciones temporales) para calcular el % de usuarios activos a los 7, 14, 21 y 28 días.
+* **Resultado:** Segmentación precisa de cohortes mensuales que permitió identificar una caída de retención en el segundo periodo, activando alertas de QA.
+
+**Herramientas:** ![SQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Analítica](https://img.shields.io/badge/Retention_Analysis-9C27B0?style=flat-square) ![Excel](https://img.shields.io/badge/Data_QA-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+[📂 Ver Carpeta del Proyecto](./Proyecto_Embudo_ML/)
+
+---
+
+### 🛠️ Habilidades Técnicas
+* **Bases de Datos:** SQL (PostgreSQL, MySQL, BigQuery).
+* **Análisis de Datos:** Python (Pandas, Numpy), Limpieza de Datos, ETL.
+* **Visualización:** Google Sheets, Excel Avanzado, Dashboards Interactivos.
+
+---
+
+<div align="center">
+  <h2>📬 Contacto</h2>
+  <a href="https://www.linkedin.com/in/tu-perfil-aqui">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:tu-correo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
