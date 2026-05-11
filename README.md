@@ -39,16 +39,16 @@
 <div align="center">
   <table style="width:100%; border:none; table-layout: fixed;">
     <tr>
-      <td style="border:none; text-align:center; padding: 0px;">
-        <div style="height: 550px; display: flex; align-items: center; justify-content: center; background: #fff; border: 1px solid #eee; border-radius: 8px; overflow: hidden;">
-          <img src="grafico- SUM Ventas Semanales.png" style="width: 120%; max-width: none; height: auto; object-fit: cover;" alt="Ventas Semanales">
+      <td style="border:none; text-align:center; padding: 5px;">
+        <div style="border: 1px solid #eee; border-radius: 8px; overflow: hidden; background: #fff;">
+          <img src="grafico- SUM Ventas Semanales.png" style="width: 100%; display: block;" alt="Ventas Semanales">
         </div>
         <br><b>Tendencia de Ventas Semanales</b>
         <p><small>Análisis de series temporales para detección de estacionalidad.</small></p>
       </td>
-      <td style="border:none; text-align:center; padding: 0px;">
-        <div style="height: 550px; display: flex; align-items: center; justify-content: center; background: #fff; border: 1px solid #eee; border-radius: 8px; overflow: hidden;">
-          <img src="grafico-ventas.png" style="width: 120%; max-width: none; height: auto; object-fit: cover;" alt="Participación de Ventas">
+      <td style="border:none; text-align:center; padding: 5px;">
+        <div style="border: 1px solid #eee; border-radius: 8px; overflow: hidden; background: #fff;">
+          <img src="grafico-ventas.png" style="width: 100%; display: block;" alt="Participación de Ventas">
         </div>
         <br><b>Distribución de Ventas por Categoría</b>
         <p><small>Market Share interno para toma de decisiones de compra.</small></p>
@@ -71,7 +71,7 @@
 > **Resumen:** Análisis técnico del ciclo de vida del usuario y cálculo de retención por cohortes mediante SQL.
 
 <div align="center">
-  <img src="dashboard-ml.png" width="80%" style="border-radius: 8px; border: 1px solid #ddd;" alt="SQL Mercado Libre">
+  <img src="dashboard-ml.png" width="90%" style="border-radius: 8px; border: 1px solid #ddd;" alt="SQL Mercado Libre">
 </div>
 
 * **Problema:** Medir la fidelización de usuarios tras el registro para optimizar las estrategias de recompra.
