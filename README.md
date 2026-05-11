@@ -1,45 +1,51 @@
-<p align="center">
-  <img src="foto-perfil-jonathan-modified.png" width="200">
-</p>
+# ¡Hola! Soy Jonathan Castillejos 👋
+### Analista de Datos | Especialista en SQL, Python y Business Intelligence
 
-<h1 align="center">Hola, soy Jonathan Castillejos 👋</h1>
+Bienvenido a mi portafolio profesional. Aquí encontrarás proyectos finales donde aplico técnicas avanzadas de extracción, limpieza y visualización de datos para resolver problemas de negocio reales.
 
-<p align="center">
-  <strong>Ingeniero & Analista de Datos</strong><br>
-  Me especializo en transformar datos en información estratégica utilizando SQL, Python y Excel.
-</p>
+---
 
-------
+## 📂 Proyectos Destacados
+
+### 1. Análisis de Operaciones y Ventas - Walmart 🛒
+Análisis integral que abarca desde la extracción de datos con SQL hasta la presentación de hallazgos en un reporte ejecutivo.
+* **Herramientas:** SQL (PostgreSQL), Google Sheets, Reporte Ejecutivo.
+* **Contenido:** * [Scripts de Limpieza y Extracción SQL](./Proyecto_Walmart/)
+    * [Dashboard y Análisis en Google Sheets](./Proyecto_Walmart/)
+    * [Reporte de Hallazgos (PDF)](./Proyecto_Walmart/)
+
+---
+
+### 2. Análisis de Embudo y Retención - Mercado Libre 📦
+Estudio detallado del comportamiento del usuario en el embudo de ventas para identificar puntos de fuga y optimizar la retención.
+* **Herramientas:** SQL, Análisis de Cohortes, Google Sheets.
+* **Contenido:** * [Ver Proyecto Completo y Código SQL](./Proyecto_Embudo_ML/)
+
+---
+
+### 3. Análisis de Desempeño de Ventas 📈
+Evaluación de KPIs comerciales para medir el rendimiento por región y categoría de producto.
+* **Herramientas:** Excel / Google Sheets, Visualización de Datos.
+* **Contenido:** * [Explorar Documentación y Reporte](./Proyecto_Desempeño_Ventas/)
+
+---
+
+### 4. Análisis de Movilidad Urbana - Python 🐍
+Proyecto enfocado en el procesamiento de grandes volúmenes de datos utilizando Python para identificar patrones de movilidad.
+* **Herramientas:** Python (Pandas, Matplotlib), Jupyter Notebooks.
+* **Contenido:** * [Ver Código y Análisis](./Proyecto_Python_Movilidad/)
+
+---
 
 ## 🛠️ Habilidades Técnicas
-- **Bases de Datos:** SQL (PostgreSQL, MySQL)
-- **Lenguajes:** Python (Pandas, NumPy)
-- **Herramientas:** Excel Avanzado, GitHub, Google Sheets
-
----
-
-## 📈 Proyectos Destacados
-
-### 1. Análisis de Desempeño Financiero — Adventure Works (SQL)
-Extracción y limpieza de datos, cálculo de KPIs (Margen, ROI) y QA utilizando PostgreSQL.
-[👉 Ver código en GitHub](https://github.com/jonathancastillejos10-prog/proyectos-sql)
-
----
-
-### 2. Dashboard de Ventas Interactivo — (Excel)
-*(Próximamente)* Análisis de tendencias comerciales mediante tablas dinámicas y segmentadores.
-[👉 Ver archivo Excel](ENLACE_PENDIENTE)
-
----
-
-### 3. Automatización de Reportes — (Python)
-*(Próximamente)* Script para limpieza automática de datos y generación de gráficos estadísticos.
-[👉 Ver código en Python](ENLACE_PENDIENTE)
+* **Bases de Datos:** SQL (PostgreSQL, MySQL).
+* **Análisis de Datos:** Python (Pandas, Numpy), Google Sheets/Excel.
+* **Visualización:** Dashboards interactivos y Reportes Ejecutivos.
+* **Herramientas:** Git, GitHub, Business Intelligence.
 
 ---
 
 ## 📫 Contacto
-¡Conectemos y hablemos de datos!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil-aqui/)
+* **LinkedIn:** [Tu LinkedIn Aquí](https://www.linkedin.com/in/tu-usuario)
+* **Ubicación:** México(https://www.linkedin.com/in/tu-perfil-aqui/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@gmail.com)
