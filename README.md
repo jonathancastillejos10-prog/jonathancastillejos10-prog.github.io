@@ -14,10 +14,23 @@
 
 <div align="center">
   <img src="grafico-Eficiencia.png" width="85%" alt="Dashboard Walmart">
+  <br><br>
+  <table style="width:100%; border:none;">
+    <tr>
+      <td style="width:50%; border:none; text-align:center;">
+        <img src="grafico- SUM Ventas Semanales.png" width="95%" alt="Ventas Semanales">
+        <br><i>Tendencia de Ventas Semanales por periodo</i>
+      </td>
+      <td style="width:50%; border:none; text-align:center;">
+        <img src="grafico-ventas.png" width="95%" alt="Participación de Ventas">
+        <br><i>Distribución de Ventas por Categoría</i>
+      </td>
+    </tr>
+  </table>
 </div>
 
 * **Problema:** Identificar disparidades en la rentabilidad por metro cuadrado entre departamentos para optimizar la distribución de la tienda.
-* **Acción:** Procesamiento de datos masivos con **SQL** (PostgreSQL) para limpieza y agregación, seguido de una arquitectura de dashboard en **Google Sheets**.
+* **Acción:** Procesamiento de datos masivos con **SQL** (PostgreSQL) para limpieza y aggregación, seguido de una arquitectura de dashboard en **Google Sheets**.
 * **Resultado:** Se identificó que el departamento de "Cuidado de Mascotas" tiene una eficiencia superior, sugiriendo una expansión estratégica de pasillos.
 
 **Herramientas:** ![SQL](https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=mysql&logoColor=white) ![Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white) ![Insight](https://img.shields.io/badge/Business_Intelligence-FF6F00?style=flat-square)
