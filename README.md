@@ -10,83 +10,91 @@
 ## 📂 Proyectos Destacados
 
 ### 1. Análisis de Operaciones y Ventas - Walmart 🛒
-> **Resumen:** Optimización de la eficiencia comercial mediante el análisis de rendimiento por departamento y gestión de inventarios para maximizar el ROI operativo.
-
 <table style="width:100%; border:none; border-collapse: collapse;">
   <tr>
-    <td style="width:60%; border:none; vertical-align: top; padding-right: 20px;">
-      <div align="center">
-      </div>
+    <td style="width:55%; border:none; vertical-align: top; padding-right: 10px;">
+      <img src="graficos-combinados-walmart.png" width="100%" style="border-radius: 8px; border: 1px solid #eee; box-shadow: 0px 4px 8px rgba(0,0,0,0.05);">
+      <p align="center"><small><b>Dashboard Integral: Tendencia de Ventas y Participación</b></small></p>
+      <p><b>Problema:</b> Optimizar la rentabilidad por m² y distribución de tienda.<br>
+      <b>Acción:</b> Limpieza en SQL (PostgreSQL) y Dashboard en Google Sheets.<br>
+      <b>Resultado:</b> Identificación de eficiencia superior en "Cuidado de Mascotas".</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=mysql&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white"> 
+        <img src="https://img.shields.io/badge/BI-FF6F00?style=flat-square">
+      </p>
     </td>
-    <td style="width:40%; border:none; vertical-align: top; background-color: #f8f9fa; padding: 15px; border-radius: 10px;">
+    <td style="width:45%; border:none; vertical-align: top; background-color: #f8f9fa; padding: 15px; border-radius: 10px;">
       <h4>📊 Métricas de Impacto</h4>
       <ul>
-        <li><b>ROI por Superficie:</b> Identificación de departamentos con retorno 25% superior al promedio.</li>
-        <li><b>Optimización de Inventario:</b> Reducción de merma mediante análisis de rotación semanal.</li>
-        <li><b>Layout Estratégico:</b> Redistribución de pasillos basada en el flujo de ventas netas.</li>
+        <li><b>ROI por Superficie:</b> Retorno 25% superior al promedio.</li>
+        <li><b>Optimización de Inventario:</b> Análisis de rotación semanal.</li>
+        <li><b>Layout Estratégico:</b> Redistribución basada en ventas netas.</li>
       </ul>
       <hr>
       <h4>🛠️ Stack Técnico</h4>
-      <p><small><b>SQL:</b> CTEs para agregación de ventas masivas.<br><b>Sheets:</b> Arquitectura de Dashboards dinámicos.<br><b>Estadística:</b> Análisis de dispersión y tendencias.</small></p>
+      <p><small><b>SQL:</b> CTEs para agregación masiva.<br><b>Sheets:</b> Arquitectura dinámica.<br><b>Estadística:</b> Dispersión y tendencias.</small></p>
+      <p align="center"><a href="./Proyecto_Walmart/"><b>[ Ver Reporte Completo ]</b></a></p>
     </td>
   </tr>
 </table>
 
 <br>
 
-<div align="center">
-  <img src="graficos-combinados-walmart.png" width="100%" style="border-radius: 8px; border: 1px solid #eee; box-shadow: 0px 4px 8px rgba(0,0,0,0.05);" alt="Análisis de Tendencias y Distribución">
-  <br>
-  <p align="center"><b>Dashboard Integral: Tendencia de Ventas y Participación por Categoría</b></p>
-</div>
-
-* **Problema:** Identificar disparidades en la rentabilidad por metro cuadrado entre departamentos para optimizar la distribución de la tienda.
-* **Acción:** Procesamiento de datos masivos con **SQL (PostgreSQL)** para limpieza y agregación, seguido de una arquitectura de dashboard en **Google Sheets**.
-* **Resultado:** Se identificó que el departamento de "Cuidado de Mascotas" tiene una eficiencia superior, sugiriendo una expansión estratégica de pasillos.
-
-**Herramientas:** ![SQL](https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=mysql&logoColor=white) ![Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white) ![Insight](https://img.shields.io/badge/Business_Intelligence-FF6F00?style=flat-square)
-
-[📂 Ver Código y Reportes](./Proyecto_Walmart/)
-
----
-
 ### 2. Análisis de Embudo y Retención - Mercado Libre 📦
-> **Resumen:** Análisis técnico del ciclo de vida del usuario y cálculo de retención por cohortes mediante SQL.
+<table style="width:100%; border:none; border-collapse: collapse;">
+  <tr>
+    <td style="width:50%; border:none; vertical-align: middle;">
+      <img src="dashboard-ml.png" width="100%" style="border-radius: 8px; border: 1px solid #ddd;">
+    </td>
+    <td style="width:50%; border:none; vertical-align: top; padding-left: 20px;">
+      <blockquote>Análisis técnico del ciclo de vida del usuario y cálculo de retención por cohortes mediante SQL.</blockquote>
+      <ul>
+        <li><b>Acción:</b> Consultas SQL avanzadas (CTEs) para intervalos de 7, 14, 21 y 28 días.</li>
+        <li><b>Resultado:</b> Detección de caída crítica en el segundo mes.</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Retention_Analysis-9C27B0?style=flat-square"> 
+        <img src="https://img.shields.io/badge/Data_QA-217346?style=flat-square&logo=microsoft-excel&logoColor=white">
+      </p>
+      <p align="center"><a href="./Proyecto_Embudo_ML/"><b>[ Ver Carpeta ]</b></a></p>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="dashboard-ml.png" width="85%" style="border-radius: 8px; border: 1px solid #ddd;" alt="SQL Mercado Libre">
-</div>
+<br>
 
-* **Problema:** Medir la fidelización de usuarios tras el registro para optimizar las estrategias de recompra.
-* **Acción:** Implementación de consultas SQL avanzadas (CTEs) para calcular el porcentaje de usuarios activos en intervalos de 7, 14, 21 y 28 días.
-* **Resultado:** La segmentación permitió detectar una caída crítica de retención en el segundo mes, facilitando la toma de decisiones en el equipo de Producto.
-
-**Herramientas:** ![SQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Analítica](https://img.shields.io/badge/Retention_Analysis-9C27B0?style=flat-square) ![Excel](https://img.shields.io/badge/Data_QA-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-
-[📂 Ver Carpeta del Proyecto](./Proyecto_Embudo_ML/)
-
----
-
-### 3. Análisis de Desempeño de Ventas 📈
-> **Resumen:** Evaluación de indicadores clave (KPIs) para medir el rendimiento comercial por región y categoría.
-
-* **Herramientas:** Excel Avanzado, Tablas Dinámicas y Dashboards.
-* **Recursos:** [📂 Ver Carpeta del Proyecto](./Proyecto_Desempeño_Ventas/)
-
----
-
-### 4. Análisis de Movilidad Urbana - Python 🐍
-> **Resumen:** Procesamiento y limpieza de datos de transporte urbano utilizando librerías científicas de Python.
-
-* **Herramientas:** Python (Pandas, Matplotlib), Jupyter Notebooks.
-* **Recursos:** [📂 Ver Carpeta del Proyecto](./Proyecto_Python_Movilidad/)
+<table style="width:100%; border:none; border-collapse: collapse;">
+  <tr>
+    <td style="width:50%; border: 1px solid #eee; padding: 15px; border-radius: 10px;">
+      <h4>3. Análisis de Desempeño 📈</h4>
+      <p><small>KPIs para medir rendimiento comercial por región y categoría utilizando Excel avanzado.</small></p>
+      <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"> 
+      <img src="https://img.shields.io/badge/Dashboards-orange?style=flat-square">
+      <br><br>
+      <a href="./Proyecto_Desempeño_Ventas/">Ver Proyecto</a>
+    </td>
+    <td style="width:50%; border: 1px solid #eee; padding: 15px; border-radius: 10px;">
+      <h4>4. Movilidad Urbana - Python 🐍</h4>
+      <p><small>Procesamiento y limpieza de datos de transporte urbano con Pandas y Matplotlib.</small></p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+      <br><br>
+      <a href="./Proyecto_Python_Movilidad/">Ver Proyecto</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Habilidades Técnicas
-* **Bases de Datos:** SQL (PostgreSQL, MySQL, BigQuery).
-* **Análisis de Datos:** Python (Pandas, Numpy), Limpieza de Datos (Data Wrangling), ETL.
-* **Visualización:** Google Sheets, Excel Avanzado, Dashboards Interactivos.
+
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Bases de Datos** | `SQL (PostgreSQL)` `MySQL` `BigQuery` |
+| **Análisis de Datos** | `Python (Pandas, Numpy)` `Data Wrangling` `ETL` |
+| **Visualización** | `Google Sheets` `Excel Avanzado` `Dashboards Interactivos` |
 
 ---
 
