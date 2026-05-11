@@ -1,3 +1,6 @@
+# ¡Hola! Soy Jonathan Castillejos 👋
+### Analista de Datos | Especialista en SQL, Python y Business Intelligence
+
 <div align="center">
   <img src="https://github.com/tu-usuario.png" width="150px" style="border-radius: 50%;">
   <br>
@@ -5,11 +8,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
-
---
-# ¡Hola! Soy Jonathan Castillejos 👋
-### Analista de Datos | Especialista en SQL, Python y Business Intelligence
-
 
 ---
 
