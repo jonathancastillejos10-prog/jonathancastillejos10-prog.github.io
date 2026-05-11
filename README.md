@@ -14,10 +14,10 @@
 
 <table style="width:100%; border:none; border-collapse: collapse;">
   <tr>
-    <td style="width:60%; border:none; vertical-align: top; padding-right: 20px;">
+    <td style="width:60%; border:none; vertical-align: top; padding-right: 10px;">
       <div align="center">
-        <img src="grafico-Eficiencia.png" width="100%" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);" alt="Eficiencia de Ventas">
-        <br><b>Dashboard de Eficiencia de Ventas por m²</b>
+        <img src="grafico-Eficiencia.png" width="100%" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); transform: scale(1.02);" alt="Eficiencia de Ventas">
+        <br><br><b>Dashboard de Eficiencia de Ventas por m²</b>
       </div>
     </td>
     <td style="width:40%; border:none; vertical-align: top; background-color: #f8f9fa; padding: 15px; border-radius: 10px;">
@@ -39,16 +39,16 @@
 <div align="center">
   <table style="width:100%; border:none; table-layout: fixed;">
     <tr>
-      <td style="border:none; text-align:center; padding: 10px;">
-        <div style="height: 500px; display: flex; align-items: center; justify-content: center; background: #fff; border: 1px solid #eee; border-radius: 8px;">
-          <img src="grafico- SUM Ventas Semanales.png" style="max-width:100%; height:100%; object-fit: contain;" alt="Ventas Semanales">
+      <td style="border:none; text-align:center; padding: 5px;">
+        <div style="height: 550px; width: 100%; display: flex; align-items: center; justify-content: center; background: #fff; border: 1px solid #eee; border-radius: 8px; overflow: hidden;">
+          <img src="grafico- SUM Ventas Semanales.png" style="width:100%; height:100%; object-fit: contain; padding: 5px;" alt="Ventas Semanales">
         </div>
         <br><b>Tendencia de Ventas Semanales</b>
         <p><small>Análisis de series temporales para detección de estacionalidad.</small></p>
       </td>
-      <td style="border:none; text-align:center; padding: 10px;">
-        <div style="height: 500px; display: flex; align-items: center; justify-content: center; background: #fff; border: 1px solid #eee; border-radius: 8px;">
-          <img src="grafico-ventas.png" style="max-width:100%; height:100%; object-fit: contain;" alt="Participación de Ventas">
+      <td style="border:none; text-align:center; padding: 5px;">
+        <div style="height: 550px; width: 100%; display: flex; align-items: center; justify-content: center; background: #fff; border: 1px solid #eee; border-radius: 8px; overflow: hidden;">
+          <img src="grafico-ventas.png" style="width:100%; height:100%; object-fit: contain; padding: 5px;" alt="Participación de Ventas">
         </div>
         <br><b>Distribución de Ventas por Categoría</b>
         <p><small>Market Share interno para toma de decisiones de compra.</small></p>
@@ -58,7 +58,7 @@
 </div>
 
 * **Problema:** Identificar disparidades en la rentabilidad por metro cuadrado entre departamentos para optimizar la distribución de la tienda.
-* **Acción:** Procesamiento de datos masivos con **SQL (PostgreSQL)** para limpieza y agregación, seguido de una arquitectura de dashboard en **Google Sheets**.
+* **Acción:** Procesamiento de datos masivos con **SQL (PostgreSQL)** para limpieza y aggregación, seguido de una arquitectura de dashboard en **Google Sheets**.
 * **Resultado:** Se identificó que el departamento de "Cuidado de Mascotas" tiene una eficiencia superior, sugiriendo una expansión estratégica de pasillos.
 
 **Herramientas:** ![SQL](https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=mysql&logoColor=white) ![Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white) ![Insight](https://img.shields.io/badge/Business_Intelligence-FF6F00?style=flat-square)
@@ -71,7 +71,7 @@
 > **Resumen:** Análisis técnico del ciclo de vida del usuario y cálculo de retención por cohortes mediante SQL.
 
 <div align="center">
-  <img src="dashboard-ml.png" width="80%" style="border-radius: 8px; border: 1px solid #ddd;" alt="SQL Mercado Libre">
+  <img src="dashboard-ml.png" width="85%" style="border-radius: 8px; border: 1px solid #ddd;" alt="SQL Mercado Libre">
 </div>
 
 * **Problema:** Medir la fidelización de usuarios tras el registro para optimizar las estrategias de recompra.
