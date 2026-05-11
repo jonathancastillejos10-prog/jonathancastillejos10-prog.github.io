@@ -37,9 +37,9 @@
 <br>
 
 <div align="center">
-  <img src="graficos-combinados-walmart.png" width="100%" style="border-radius: 8px; border: 1px solid #eee;" alt="Análisis de Tendencias y Distribución">
+  <img src="graficos-combinados-walmart.png" width="100%" style="border-radius: 8px; border: 1px solid #eee; box-shadow: 0px 4px 8px rgba(0,0,0,0.05);" alt="Análisis de Tendencias y Distribución">
   <br>
-  <p align="center"><b>Análisis Comparativo: Tendencia Semanal vs. Participación por Categoría</b></p>
+  <p align="center"><b>Dashboard Integral: Tendencia de Ventas y Participación por Categoría</b></p>
 </div>
 
 * **Problema:** Identificar disparidades en la rentabilidad por metro cuadrado entre departamentos para optimizar la distribución de la tienda.
