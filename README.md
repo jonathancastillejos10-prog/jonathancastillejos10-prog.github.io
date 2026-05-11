@@ -40,14 +40,14 @@
   <table style="width:100%; border:none; table-layout: fixed;">
     <tr>
       <td style="border:none; text-align:center; padding: 10px;">
-        <div style="height: 280px; display: flex; align-items: center; justify-content: center; background: #fff; border: 1px solid #eee; border-radius: 8px;">
+        <div style="height: 380px; display: flex; align-items: center; justify-content: center; background: #fff; border: 1px solid #eee; border-radius: 8px;">
           <img src="grafico- SUM Ventas Semanales.png" style="max-width:100%; max-height:100%; object-fit: contain;" alt="Ventas Semanales">
         </div>
         <br><b>Tendencia de Ventas Semanales</b>
         <p><small>Análisis de series temporales para detección de estacionalidad.</small></p>
       </td>
       <td style="border:none; text-align:center; padding: 10px;">
-        <div style="height: 280px; display: flex; align-items: center; justify-content: center; background: #fff; border: 1px solid #eee; border-radius: 8px;">
+        <div style="height: 380px; display: flex; align-items: center; justify-content: center; background: #fff; border: 1px solid #eee; border-radius: 8px;">
           <img src="grafico-ventas.png" style="max-width:100%; max-height:100%; object-fit: contain;" alt="Participación de Ventas">
         </div>
         <br><b>Distribución de Ventas por Categoría</b>
