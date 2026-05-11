@@ -76,7 +76,7 @@
       <a href="./Proyecto_Desempeño_Ventas/">Ver Proyecto</a>
     </td>
     <td style="width:50%; border: 1px solid #eee; padding: 15px; border-radius: 10px;">
-      <h4>4. Movilidad Urbana - Python 🐍</h4>
+      <h4>4. Movilidad Urbana y Productividad 🐍</h4>
       <p><small>Procesamiento y limpieza de datos de transporte urbano con Pandas y Matplotlib.</small></p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
@@ -102,11 +102,11 @@
   <h2>📬 Contacto</h2>
   <p>¿Te interesa mi perfil? ¡Conectemos!</p>
   
-  <a href="https://www.linkedin.com/in/tu-perfil-aqui">
+  <a href="https://www.linkedin.com/in/jonathan-castillejos-analyst/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:tu-correo@gmail.com">
+  <a href="mailto:jonathan_castillejos10@hotmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
