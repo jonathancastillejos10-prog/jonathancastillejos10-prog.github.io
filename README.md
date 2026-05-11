@@ -14,10 +14,10 @@
 
 <table style="width:100%; border:none; border-collapse: collapse;">
   <tr>
-    <td style="width:60%; border:none; vertical-align: top; padding-right: 20px;">
+    <td style="width:60%; border:none; vertical-align: top; padding-right: 10px;">
       <div align="center">
-        <img src="grafico-Eficiencia.png" width="100%" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);" alt="Eficiencia de Ventas">
-        <br><b>Dashboard de Eficiencia de Ventas por m²</b>
+        <img src="grafico-Eficiencia.png" style="width: 100%; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);" alt="Eficiencia de Ventas">
+        <br><br><b>Dashboard de Eficiencia de Ventas por m²</b>
       </div>
     </td>
     <td style="width:40%; border:none; vertical-align: top; background-color: #f8f9fa; padding: 15px; border-radius: 10px;">
@@ -39,16 +39,16 @@
 <div align="center">
   <table style="width:100%; border:none; table-layout: fixed;">
     <tr>
-      <td style="border:none; text-align:center; padding: 5px;">
-        <div style="border: 1px solid #eee; border-radius: 8px; overflow: hidden; background: #fff;">
-          <img src="grafico- SUM Ventas Semanales.png" style="width: 100%; display: block;" alt="Ventas Semanales">
+      <td style="border:none; text-align:center; padding: 0px;">
+        <div style="border: 1px solid #eee; border-radius: 8px; background: #fff; width: 100%;">
+          <img src="grafico- SUM Ventas Semanales.png" style="width: 100%; height: auto; display: block;" alt="Ventas Semanales">
         </div>
         <br><b>Tendencia de Ventas Semanales</b>
         <p><small>Análisis de series temporales para detección de estacionalidad.</small></p>
       </td>
-      <td style="border:none; text-align:center; padding: 5px;">
-        <div style="border: 1px solid #eee; border-radius: 8px; overflow: hidden; background: #fff;">
-          <img src="grafico-ventas.png" style="width: 100%; display: block;" alt="Participación de Ventas">
+      <td style="border:none; text-align:center; padding: 0px;">
+        <div style="border: 1px solid #eee; border-radius: 8px; background: #fff; width: 100%;">
+          <img src="grafico-ventas.png" style="width: 100%; height: auto; display: block;" alt="Participación de Ventas">
         </div>
         <br><b>Distribución de Ventas por Categoría</b>
         <p><small>Market Share interno para toma de decisiones de compra.</small></p>
@@ -71,7 +71,7 @@
 > **Resumen:** Análisis técnico del ciclo de vida del usuario y cálculo de retención por cohortes mediante SQL.
 
 <div align="center">
-  <img src="dashboard-ml.png" width="90%" style="border-radius: 8px; border: 1px solid #ddd;" alt="SQL Mercado Libre">
+  <img src="dashboard-ml.png" width="95%" style="border-radius: 8px; border: 1px solid #ddd;" alt="SQL Mercado Libre">
 </div>
 
 * **Problema:** Medir la fidelización de usuarios tras el registro para optimizar las estrategias de recompra.
