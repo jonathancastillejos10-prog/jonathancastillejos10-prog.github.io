@@ -16,7 +16,6 @@
   <tr>
     <td style="width:60%; border:none; vertical-align: top; padding-right: 20px;">
       <div align="center">
-        <img src="grafico-Eficiencia.png" width="100%" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);" alt="Eficiencia de Ventas">
       </div>
     </td>
     <td style="width:40%; border:none; vertical-align: top; background-color: #f8f9fa; padding: 15px; border-radius: 10px;">
