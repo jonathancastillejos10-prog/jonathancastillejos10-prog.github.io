@@ -13,7 +13,7 @@
 > **Resumen:** Optimización de la eficiencia comercial mediante el análisis de rendimiento por departamento y gestión de inventarios.
 
 <div align="center">
-  <img src="Proyecto_Walmart/grafico-Eficiencia.png" width="85%" alt="Dashboard Walmart">
+  <img src="grafico-Eficiencia.png" width="85%" alt="Dashboard Walmart">
 </div>
 
 * **Problema:** Identificar disparidades en la rentabilidad por metro cuadrado entre departamentos para optimizar la distribución de la tienda.
