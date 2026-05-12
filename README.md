@@ -118,13 +118,19 @@ Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y l
 
 ---
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonathancastillejos10-prog&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="Estadísticas de Jonathan" />
+## 📊 Habilidades y Actividad
+<div align="center">
+  <img src="https://img.shields.io/badge/Data_Analysis-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visualization-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Business_Intelligence-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathancastillejos10-prog&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-</p>
+  
+  <p><i>Analizando datos y construyendo soluciones diariamente.</i></p>
+</div>
 
----<div align="center">
+---
+<div align="center">
   <p><i>"Los datos no mienten, pero solo hablan si sabes hacer las preguntas correctas."</i></p>
 </div>
