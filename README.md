@@ -118,17 +118,16 @@ Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y l
 
 ---
 
-## 📊 GitHub Analytics (Mejora Anexada)
+## 📊 GitHub Analytics 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jonathancastillejos10-prog&show_icons=true&theme=tokyonight" alt="Jonathan GitHub Stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathancastillejos10-prog&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jonathancastillejos10-prog&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Jonathan" />
+  
+  <br><br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathancastillejos10-prog&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
 
 ---
-
 <div align="center">
   <p><i>"Los datos no mienten, pero solo hablan si sabes hacer las preguntas correctas."</i></p>
 </div>
