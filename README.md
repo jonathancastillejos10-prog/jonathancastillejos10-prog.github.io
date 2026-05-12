@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/jonathancastillejos10-prog/jonathancastillejos10-prog/raw/main/foto-perfil-jonathan-modified.png" width="160px" style="border-radius: 50%; border: 3px solid #0077B5;">
+  <img src="https://raw.githubusercontent.com/jonathancastillejos10-prog/jonathancastillejos10-prog/main/foto-perfil-jonathan-modified.png" width="160px" style="border-radius: 50%; border: 3px solid #0077B5;">
   <h1>¡Hola! Soy Jonathan Castillejos 👋</h1>
   <p><strong>Analista de Datos | Especialista en SQL, Python y Business Intelligence</strong></p>
   <p><i>"Transformando datos complejos en decisiones estratégicas de negocio a través de visualización avanzada y modelado analítico."</i></p>
@@ -43,7 +43,7 @@ Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y l
 <table style="width:100%; border:none; border-collapse: collapse;">
   <tr>
     <td style="width:55%; border:none; vertical-align: top; padding-right: 10px;">
-      <img src="graficos-combinados-walmart.png" width="100%" style="border-radius: 8px; border: 1px solid #eee; box-shadow: 0px 4px 8px rgba(0,0,0,0.05);">
+      <img src="https://raw.githubusercontent.com/jonathancastillejos10-prog/jonathancastillejos10-prog/main/graficos-combinados-walmart.png" width="100%" style="border-radius: 8px; border: 1px solid #eee; box-shadow: 0px 4px 8px rgba(0,0,0,0.05);">
       <p align="center"><small><b>Dashboard Integral: Tendencia de Ventas y Participación</b></small></p>
       <p><b>Problema:</b> Optimizar la rentabilidad por m² y distribución de tienda.<br>
       <b>Acción:</b> Limpieza en SQL (PostgreSQL) y Dashboard en Google Sheets.<br>
@@ -75,7 +75,7 @@ Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y l
 <table style="width:100%; border:none; border-collapse: collapse;">
   <tr>
     <td style="width:50%; border:none; vertical-align: middle;">
-      <img src="dashboard-ml.png" width="100%" style="border-radius: 8px; border: 1px solid #ddd;">
+      <img src="https://raw.githubusercontent.com/jonathancastillejos10-prog/jonathancastillejos10-prog/main/dashboard-ml.png" width="100%" style="border-radius: 8px; border: 1px solid #ddd;">
     </td>
     <td style="width:50%; border:none; vertical-align: top; padding-left: 20px;">
       <blockquote style="color: #555;">Análisis técnico del ciclo de vida del usuario y cálculo de retención por cohortes mediante SQL.</blockquote>
@@ -120,7 +120,7 @@ Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y l
 
 ## 📊 GitHub Analytics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jonathancastillejos10-prog&show_icons=true&theme=tokyonight" alt="Jonathan GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=jonathancastillejos10-prog&show_icons=true&theme=tokyonight&count_private=true" alt="Jonathan GitHub Stats" />
 </p>
 
 <p align="center">
