@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jonathancastillejos10-prog/jonathancastillejos10-prog/main/foto-perfil-jonathan-modified.png" width="160px" style="border-radius: 50%; border: 3px solid #0077B5;">
+  <img src="foto-perfil-jonathan-modified.png" width="160px" style="border-radius: 50%; border: 3px solid #0077B5;">
   <h1>¡Hola! Soy Jonathan Castillejos 👋</h1>
   <p><strong>Analista de Datos | Especialista en SQL, Python y Business Intelligence</strong></p>
   <p><i>"Transformando datos complejos en decisiones estratégicas de negocio a través de visualización avanzada y modelado analítico."</i></p>
@@ -15,7 +15,7 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 Sobre mí (Mejora Anexada)
 Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y liderazgo de equipos técnicos en el sector energético (Enel Green Power). Actualmente en transición al mundo de **Data Analytics**, fusionando el rigor de la ingeniería con herramientas de ciencia de datos para resolver problemas complejos de negocio y optimizar la eficiencia operativa.
 
 - 🔭 **Enfoque actual:** Análisis de cohortes, embudos de conversión y limpieza de datos masivos.
@@ -24,7 +24,7 @@ Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y l
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Stack Tecnológico (Mejora Anexada)
 <div align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -37,13 +37,13 @@ Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y l
 
 ---
 
-## 📂 Proyectos Destacados
+## 📂 Proyectos Destacados (Tu Código Original)
 
 ### 1. Análisis de Operaciones y Ventas - Walmart 🛒
 <table style="width:100%; border:none; border-collapse: collapse;">
   <tr>
     <td style="width:55%; border:none; vertical-align: top; padding-right: 10px;">
-      <img src="https://raw.githubusercontent.com/jonathancastillejos10-prog/jonathancastillejos10-prog/main/graficos-combinados-walmart.png" width="100%" style="border-radius: 8px; border: 1px solid #eee; box-shadow: 0px 4px 8px rgba(0,0,0,0.05);">
+      <img src="graficos-combinados-walmart.png" width="100%" style="border-radius: 8px; border: 1px solid #eee; box-shadow: 0px 4px 8px rgba(0,0,0,0.05);">
       <p align="center"><small><b>Dashboard Integral: Tendencia de Ventas y Participación</b></small></p>
       <p><b>Problema:</b> Optimizar la rentabilidad por m² y distribución de tienda.<br>
       <b>Acción:</b> Limpieza en SQL (PostgreSQL) y Dashboard en Google Sheets.<br>
@@ -75,7 +75,7 @@ Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y l
 <table style="width:100%; border:none; border-collapse: collapse;">
   <tr>
     <td style="width:50%; border:none; vertical-align: middle;">
-      <img src="https://raw.githubusercontent.com/jonathancastillejos10-prog/jonathancastillejos10-prog/main/dashboard-ml.png" width="100%" style="border-radius: 8px; border: 1px solid #ddd;">
+      <img src="dashboard-ml.png" width="100%" style="border-radius: 8px; border: 1px solid #ddd;">
     </td>
     <td style="width:50%; border:none; vertical-align: top; padding-left: 20px;">
       <blockquote style="color: #555;">Análisis técnico del ciclo de vida del usuario y cálculo de retención por cohortes mediante SQL.</blockquote>
@@ -118,9 +118,9 @@ Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y l
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics (Mejora Anexada)
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jonathancastillejos10-prog&show_icons=true&theme=tokyonight&count_private=true" alt="Jonathan GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=jonathancastillejos10-prog&show_icons=true&theme=tokyonight" alt="Jonathan GitHub Stats" />
 </p>
 
 <p align="center">
