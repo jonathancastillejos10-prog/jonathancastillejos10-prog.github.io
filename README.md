@@ -44,7 +44,7 @@ Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y l
   <tr>
     <td style="width:55%; border:none; vertical-align: top; padding-right: 10px;">
       <img src="grafico-ventas.png" width="100%" style="border-radius: 8px; border: 1px solid #eee; box-shadow: 0px 4px 8px rgba(0,0,0,0.05);">
-      <p align="center"><small><b>Dashboard Integral: Tendencia de Ventas y Participación</b></small></p>
+      <p align="center"><small><b>Distribución de Ventas Semanales por Departamento</b></small></p>
       <p><b>Problema:</b> Optimizar la rentabilidad por m² y distribución de tienda.<br>
       <b>Acción:</b> Limpieza en SQL (PostgreSQL) y Dashboard en Google Sheets.<br>
       <b>Resultado:</b> Identificación de eficiencia superior en "Cuidado de Mascotas".</p>
