@@ -15,8 +15,8 @@
 
 ---
 
-## 👨‍💻 Sobre mí (Mejora Anexada)
-Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y liderazgo de equipos técnicos en el sector energético (Enel Green Power). Actualmente en transición al mundo de **Data Analytics**, fusionando el rigor de la ingeniería con herramientas de ciencia de datos para resolver problemas complejos de negocio y optimizar la eficiencia operativa.
+## 👨‍💻 Sobre mí
+Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y liderazgo de equipos técnicos en el sector energético. Actualmente enfocado en el mundo de **Data Analytics**, fusionando el rigor de la ingeniería con herramientas de ciencia de datos para resolver problemas complejos de negocio y optimizar la eficiencia operativa.
 
 - 🔭 **Enfoque actual:** Análisis de cohortes, embudos de conversión y limpieza de datos masivos.
 - 🌱 **Stack principal:** Python (Pandas, NumPy), SQL (PostgreSQL) y visualización avanzada.
@@ -24,7 +24,7 @@ Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y l
 
 ---
 
-## 🛠️ Stack Tecnológico (Mejora Anexada)
+## 🛠️ Stack Tecnológico
 <div align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -37,17 +37,17 @@ Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y l
 
 ---
 
-## 📂 Proyectos Destacados (Tu Código Original)
+## 📂 Proyectos Destacados
 
-### 1. Análisis de Operaciones y Ventas - Walmart 🛒
+### 1. Simulación de Consultoría de Negocio – Optimización de Margen Comercial en Retail 🛒
 <table style="width:100%; border:none; border-collapse: collapse;">
   <tr>
     <td style="width:55%; border:none; vertical-align: top; padding-right: 10px;">
       <img src="graficos-combinados-walmart.png" width="100%" style="border-radius: 8px; border: 1px solid #eee; box-shadow: 0px 4px 8px rgba(0,0,0,0.05);">
       <p align="center"><small><b>Distribución de Ventas Semanales por Departamento</b></small></p>
-      <p><b>Problema:</b> Optimizar la rentabilidad por m² y distribución de tienda.<br>
-      <b>Acción:</b> Limpieza en SQL (PostgreSQL) y Dashboard en Google Sheets.<br>
-      <b>Resultado:</b> Identificación de eficiencia superior en "Cuidado de Mascotas".</p>
+      <p><b>Problema:</b> Identificar ineficiencias en la rentabilidad por m² y optimizar la asignación física de espacio comercial.<br>
+      <b>Acción:</b> Agregación de grandes volúmenes de datos con SQL (PostgreSQL) y desarrollo de un Dashboard ágil en Google Sheets.<br>
+      <b>Resultado:</b> Aislamiento de categorías de alta rotación y propuesta de redistribución de layout basada en margen neto.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=mysql&logoColor=white"> 
         <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white"> 
@@ -57,30 +57,30 @@ Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y l
     <td style="width:45%; border:none; vertical-align: top; background-color: #f8f9fa; padding: 15px; border-radius: 10px;">
       <h4 style="color: black;">📊 Métricas de Impacto</h4>
       <ul>
-        <li><b>ROI por Superficie:</b> Retorno 25% superior al promedio.</li>
-        <li><b>Optimización de Inventario:</b> Análisis de rotación semanal.</li>
-        <li><b>Layout Estratégico:</b> Redistribución basada en ventas netas.</li>
+        <li><b>ROI por Superficie:</b> Segmentación de categorías con rendimiento 25% superior.</li>
+        <li><b>Optimización de Inventario:</b> Modelado de rotación física semanal.</li>
+        <li><b>Layout Estratégico:</b> Simulación de distribución comercial basada en datos históricos.</li>
       </ul>
       <hr>
       <h4 style="color: black;">🛠️ Stack Técnico</h4>
-      <p><small><b>SQL:</b> CTEs para agregación masiva.<br><b>Sheets:</b> Arquitectura dinámica.<br><b>Estadística:</b> Dispersión y tendencias.</small></p>
+      <p><small><b>SQL:</b> Uso de CTEs para agregación estructurada.<br><b>Sheets:</b> Tablas dinámicas y modelado lógico.<br><b>Análisis:</b> Evaluación de dispersión y tendencias.</small></p>
       <p align="center"><a href="./Proyecto_Walmart/"><b>[ Ver Reporte Completo ]</b></a></p>
     </td>
   </tr>
 </table>
 <br>
 
-### 2. Análisis de Embudo y Retención - Mercado Libre 📦
+### 2. Análisis Avanzado – Diagnóstico de Embudo y Retención de Clientes E-Commerce 📦
 <table style="width:100%; border:none; border-collapse: collapse;">
   <tr>
     <td style="width:50%; border:none; vertical-align: middle;">
       <img src="dashboard-ml.png" width="100%" style="border-radius: 8px; border: 1px solid #ddd;">
     </td>
     <td style="width:50%; border:none; vertical-align: top; padding-left: 20px;">
-      <blockquote style="color: #555;">Análisis técnico del ciclo de vida del usuario y cálculo de retención por cohortes mediante SQL.</blockquote>
+      <blockquote style="color: #555;">Análisis del ciclo de vida del usuario y cálculo de retención por cohortes para mitigar la fricción transaccional.</blockquote>
       <ul>
-        <li><b>Acción:</b> Consultas SQL avanzadas (CTEs) para intervalos de 7, 14, 21 y 28 días.</li>
-        <li><b>Resultado:</b> Detección de caída crítica en el segundo mes.</li>
+        <li><b>Acción:</b> Consultas SQL complejas para estructurar cohortes de comportamiento en intervalos de 7, 14, 21 y 28 días.</li>
+        <li><b>Resultado:</b> Detección de cuellos de botella críticos en los pasos intermedios del embudo comercial (checkout).</li>
       </ul>
       <p align="center">
         <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"> 
@@ -97,16 +97,16 @@ Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y l
 <table style="width:100%; border:none; border-collapse: collapse;">
   <tr>
     <td style="width:50%; border: 1px solid #eee; padding: 15px; border-radius: 10px;">
-      <h4 style="color: black;">3. Análisis de Desempeño 📈</h4>
-      <p><small>KPIs para medir rendimiento comercial por región y categoría utilizando Excel avanzado.</small></p>
+      <h4 style="color: black;">3. MVP de Business Intelligence 📈</h4>
+      <p><small>Diseño de KPIs comerciales y cuadros de mando interactivos para evaluar el rendimiento por región operativa mediante Excel avanzado.</small></p>
       <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"> 
       <img src="https://img.shields.io/badge/Dashboards-orange?style=flat-square">
       <br><br>
       <a href="./Proyecto_Desempeño_Ventas/">Ver Proyecto</a>
     </td>
     <td style="width:50%; border: 1px solid #eee; padding: 15px; border-radius: 10px;">
-      <h4 style="color: black;">4. Movilidad Urbana 🐍</h4>
-      <p><small>Procesamiento y limpieza de datos de transporte urbano con Pandas y Matplotlib.</small></p>
+      <h4 style="color: black;">4. Investigación de Movilidad Urbana 🐍</h4>
+      <p><small>Pipeline de procesamiento, limpieza y análisis correlacional de datos de infraestructura logística utilizando Pandas y Matplotlib.</small></p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
       <br><br>
@@ -126,7 +126,7 @@ Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y l
   
   <br><br>
   
-  <p><i>Analizando datos y construyendo soluciones diariamente.</i></p>
+  <p><i>Analizando datos y construyendo soluciones de negocio diariamente.</i></p>
 </div>
 
 ---
