@@ -21,19 +21,34 @@ Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y l
 - 🔭 **Enfoque actual:** Análisis de cohortes, embudos de conversión y limpieza de datos masivos.
 - 🌱 **Stack principal:** Python (Pandas, NumPy), SQL (PostgreSQL) y visualización avanzada.
 - ⚡ **Dato curioso:** Utilizo metodologías ágiles y pensamiento sistémico para desglosar problemas de datos desde su raíz técnica.
-
+---
+## 🎯 Áreas de Especialización
+- **Data Engineering (ETL):** Diseño de pipelines de limpieza y transformación de datos usando Python (Pandas/NumPy).
+- **Business Intelligence:** Creación de tableros dinámicos y métricas financieras/operativas orientadas a la toma de decisiones.
+- **Análisis Estadístico:** Modelado de cohortes, análisis de embudos de conversión y comportamiento transaccional.
 ---
 
 ## 🛠️ Stack Tecnológico
 <div align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+<h3>🧠 Lenguajes y Análisis de Datos</h3>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+
+<h3>🗄️ Motores y Bases de Datos</h3>
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+<h3>📊 Entornos de Reportes y BI</h3>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
+
+<h3>🛠️ Control de Versiones</h3>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
 </div>
+
+---
 
 ---
 
