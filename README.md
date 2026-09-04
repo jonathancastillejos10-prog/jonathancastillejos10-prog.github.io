@@ -53,8 +53,44 @@ Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y l
 ---
 
 ## 📂 Proyectos Destacados
+### 1. RappiPlus — Data Analytics & Power BI Dashboard 📊
 
-### 1. Simulación de Consultoría de Negocio – Optimización de Margen Comercial en Retail 🛒
+<table style="width:100%; border:none; border-collapse: collapse;">
+  <tr>
+    <td style="width:55%; border:none; vertical-align: top; padding-right: 10px;">
+      <img src="https://raw.githubusercontent.com/jonathancastillejos10-prog/RappiPlus-Data-Analytics/main/RappiPlus-PowerBI/RappiPlus_Dashboard.jpg" width="100%" style="border-radius: 8px; border: 1px solid #ddd;">
+      <p align="center"><small><b>Dashboard ejecutivo de ventas, rentabilidad y comportamiento de usuarios</b></small></p>
+      <p><b>Problema:</b> Transformar datos transaccionales, de productos y marketing en información útil para la toma de decisiones.<br>
+      <b>Acción:</b> Análisis y preparación de datos con Python, modelado en Power BI y desarrollo de KPIs mediante DAX.<br>
+      <b>Resultado:</b> Dashboard interactivo para analizar ingresos, costos, rentabilidad, productos, marketing, funnel y experimentación A/B.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+        <img src="https://img.shields.io/badge/DAX-0078D4?style=flat-square">
+      </p>
+    </td>
+    <td style="width:45%; border:none; vertical-align: top; background-color: #f8f9fa; padding: 15px; border-radius: 10px;">
+      <h4 style="color: black;">📈 Principales KPIs</h4>
+      <ul>
+        <li><b>Ingresos:</b> $51.97M</li>
+        <li><b>Beneficio:</b> $5.97M</li>
+        <li><b>Marketing:</b> $2.87M</li>
+        <li><b>Ticket promedio:</b> $2,083.18</li>
+      </ul>
+      <hr>
+      <h4 style="color: black;">🛠️ Stack Técnico</h4>
+      <p><small><b>Python:</b> Limpieza y análisis exploratorio.<br>
+      <b>Power BI:</b> Modelado, Power Query y visualización.<br>
+      <b>DAX:</b> KPIs y métricas financieras.<br>
+      <b>Estadística:</b> Funnel, cohortes y A/B Testing.</small></p>
+      <p align="center"><a href="https://github.com/jonathancastillejos10-prog/RappiPlus-Data-Analytics/tree/main/RappiPlus-PowerBI"><b>[ Ver Proyecto Completo ]</b></a></p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### 2. Simulación de Consultoría de Negocio – Optimización de Margen Comercial en Retail 🛒
 <table style="width:100%; border:none; border-collapse: collapse;">
   <tr>
     <td style="width:55%; border:none; vertical-align: top; padding-right: 10px;">
@@ -85,7 +121,7 @@ Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y l
 </table>
 <br>
 
-### 2. Análisis Avanzado – Diagnóstico de Embudo y Retención de Clientes E-Commerce 📦
+### 3. Análisis Avanzado – Diagnóstico de Embudo y Retención de Clientes E-Commerce 📦
 <table style="width:100%; border:none; border-collapse: collapse;">
   <tr>
     <td style="width:50%; border:none; vertical-align: middle;">
