@@ -19,9 +19,9 @@
 ## 👨‍💻 Sobre mí
 Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y liderazgo de equipos técnicos en el sector energético. Actualmente enfocado en el mundo de **Data Analytics**, fusionando el rigor de la ingeniería con herramientas de análisis de datos y Business Intelligence para transformar datos operativos y de negocio en información accionable y optimizar la eficiencia operativa.
 
-- 🔭 **Enfoque actual:** Análisis de cohortes, embudos de conversión y limpieza de datos masivos.
-- 🌱 **Stack principal:** Python (Pandas, NumPy), SQL (PostgreSQL) y visualización avanzada.
-- ⚡ **Dato curioso:** Utilizo metodologías ágiles y pensamiento sistémico para desglosar problemas de datos desde su raíz técnica.
+- 🔭 **Enfoque actual:** Análisis de datos, Business Intelligence, dashboards y automatización de procesos.
+- 🌱 **Stack principal:** Python (Pandas, NumPy), SQL (PostgreSQL), Power BI y DAX.
+- ⚡ **Dato curioso:** Combino pensamiento sistémico y experiencia en operaciones industriales para analizar problemas de datos desde su origen y convertirlos en soluciones orientadas al negocio.
 ---
 ## 🎯 Áreas de Especialización
 - **Data Engineering (ETL):** Diseño de pipelines de limpieza y transformación de datos usando Python (Pandas/NumPy).
