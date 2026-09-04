@@ -58,7 +58,7 @@ Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y l
 ---
 
 ## 📂 Proyectos Destacados
-### 1. RappiPlus — Data Analytics & Power BI Dashboard 📊
+### 1. ### 1. RappiPlus — Data Analytics & Business Intelligence 📊
 
 <table style="width:100%; border:none; border-collapse: collapse;">
   <tr>
