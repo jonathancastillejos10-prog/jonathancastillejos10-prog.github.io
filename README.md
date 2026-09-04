@@ -24,9 +24,9 @@ Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y l
 - ⚡ **Dato curioso:** Combino pensamiento sistémico y experiencia en operaciones industriales para analizar problemas de datos desde su origen y convertirlos en soluciones orientadas al negocio.
 ---
 ## 🎯 Áreas de Especialización
-- **Data Engineering (ETL):** Diseño de pipelines de limpieza y transformación de datos usando Python (Pandas/NumPy).
-- **Business Intelligence:** Creación de tableros dinámicos y métricas financieras/operativas orientadas a la toma de decisiones.
-- **Análisis Estadístico:** Modelado de cohortes, análisis de embudos de conversión y comportamiento transaccional.
+- **Transformación y automatización de datos:** Diseño de procesos de limpieza y transformación de datos usando Python (Pandas/NumPy) y herramientas de ETL.
+- **Business Intelligence:** Desarrollo de dashboards interactivos, KPIs y métricas financieras y operativas orientadas a la toma de decisiones.
+- **Análisis Estadístico:** Análisis de cohortes, embudos de conversión, A/B Testing y comportamiento transaccional.
 ---
 
 ## 🛠️ Stack Tecnológico
