@@ -148,7 +148,7 @@ Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y l
 <table style="width:100%; border:none; border-collapse: collapse;">
   <tr>
     <td style="width:50%; border: 1px solid #eee; padding: 15px; border-radius: 10px;">
-      <h4 style="color: black;">3. MVP de Business Intelligence 📈</h4>
+      <h4 style="color: black;">4. MVP de Business Intelligence 📈</h4>
       <p><small>Diseño de KPIs comerciales y cuadros de mando interactivos para evaluar el rendimiento por región operativa mediante Excel avanzado.</small></p>
       <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"> 
       <img src="https://img.shields.io/badge/Dashboards-orange?style=flat-square">
@@ -156,7 +156,7 @@ Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y l
       <a href="./Proyecto_Desempeño_Ventas/">Ver Proyecto</a>
     </td>
     <td style="width:50%; border: 1px solid #eee; padding: 15px; border-radius: 10px;">
-      <h4 style="color: black;">4. Investigación de Movilidad Urbana 🐍</h4>
+      <h4 style="color: black;">5. Investigación de Movilidad Urbana 🐍</h4>
       <p><small>Pipeline de procesamiento, limpieza y análisis correlacional de datos de infraestructura logística utilizando Pandas y Matplotlib.</small></p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
