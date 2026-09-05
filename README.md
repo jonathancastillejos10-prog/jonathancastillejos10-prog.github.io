@@ -163,16 +163,11 @@ Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y l
     <td style="width:50%; border: 1px solid #eee; padding: 15px; border-radius: 10px;">
       <h4 style="color: black;">Movilidad Urbana y Productividad en LATAM 🐍</h4>
       <p><small>### 🎯 Problema
+Análisis de datos de movilidad urbana en Latinoamérica para identificar patrones de desplazamiento y su relación con indicadores de productividad.
 
-Analizar datos de movilidad urbana en Latinoamérica para identificar patrones de desplazamiento y explorar su relación con indicadores de productividad.
+🛠️ Tecnologías: Python, Pandas, NumPy y Matplotlib.
 
-### 🔧 Acción
-
-Integración y limpieza de múltiples fuentes de datos utilizando Python, Pandas y NumPy, seguida de análisis exploratorio y visualización de indicadores mediante Matplotlib.
-
-### 📊 Resultado
-
-Identificación de patrones de movilidad y relaciones entre variables urbanas y de productividad, generando insights para comprender el comportamiento de la movilidad urbana en diferentes contextos de Latinoamérica.
+📊 Resultado: Integración y limpieza de múltiples fuentes de datos, análisis exploratorio y visualización de indicadores para identificar patrones de movilidad y relaciones entre variables urbanas y de productividad.
 
 ### 🛠️ Tecnologías
 
