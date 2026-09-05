@@ -126,7 +126,7 @@ Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y l
 </table>
 <br>
 
-### 3. Análisis Avanzado – Diagnóstico de Embudo y Retención de Clientes E-Commerce 📦
+### 3. Análisis de Embudo y Retención de Usuarios | MercadoLibre — TripleTen — 2026 📦
 <table style="width:100%; border:none; border-collapse: collapse;">
   <tr>
     <td style="width:50%; border:none; vertical-align: middle;">
