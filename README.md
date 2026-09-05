@@ -58,16 +58,16 @@ Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y l
 ---
 
 ## 📂 Proyectos Destacados
-### 1. ### 1. RappiPlus — Data Analytics & Business Intelligence 📊
+### 1. RappiPlus — Data Analytics & Business Intelligence 📊
 
 <table style="width:100%; border:none; border-collapse: collapse;">
   <tr>
     <td style="width:55%; border:none; vertical-align: top; padding-right: 10px;">
       <img src="https://raw.githubusercontent.com/jonathancastillejos10-prog/RappiPlus-Data-Analytics/main/RappiPlus-PowerBI/RappiPlus_Dashboard.jpg" width="100%" style="border-radius: 8px; border: 1px solid #ddd;">
       <p align="center"><small><b>Dashboard ejecutivo de ventas, rentabilidad y comportamiento de usuarios</b></small></p>
-      <p><b>Problema:</b> Transformar datos transaccionales, de productos y marketing en información útil para la toma de decisiones.<br>
-      <b>Acción:</b> Análisis y preparación de datos con Python, modelado en Power BI y desarrollo de KPIs mediante DAX.<br>
-      <b>Resultado:</b> Dashboard interactivo para analizar ingresos, costos, rentabilidad, productos, marketing, funnel y experimentación A/B.</p>
+      <p><b>Problema:</b> Integrar y analizar datos de ventas, productos, marketing y comportamiento de usuarios para identificar oportunidades de negocio.</p>
+<p><b>Acción:</b> Limpié y estructuré los datos con Python, desarrollé el modelo en Power BI y construí KPIs mediante DAX para analizar desempeño y rentabilidad.</p>
+<p><b>Resultado:</b> Desarrollé un dashboard ejecutivo que centraliza ingresos, costos, rentabilidad, productos, marketing, funnel, cohortes y A/B Testing para facilitar la toma de decisiones basada en datos.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
