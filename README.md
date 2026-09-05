@@ -162,7 +162,22 @@ Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y l
     </td>
     <td style="width:50%; border: 1px solid #eee; padding: 15px; border-radius: 10px;">
       <h4 style="color: black;">Movilidad Urbana y Productividad en LATAM 🐍</h4>
-      <p><small>Pipeline de procesamiento, limpieza y análisis correlacional de datos de infraestructura logística utilizando Pandas y Matplotlib.</small></p>
+      <p><small>### 🎯 Problema
+
+Analizar datos de movilidad urbana en Latinoamérica para identificar patrones de desplazamiento y explorar su relación con indicadores de productividad.
+
+### 🔧 Acción
+
+Integración y limpieza de múltiples fuentes de datos utilizando Python, Pandas y NumPy, seguida de análisis exploratorio y visualización de indicadores mediante Matplotlib.
+
+### 📊 Resultado
+
+Identificación de patrones de movilidad y relaciones entre variables urbanas y de productividad, generando insights para comprender el comportamiento de la movilidad urbana en diferentes contextos de Latinoamérica.
+
+### 🛠️ Tecnologías
+
+Python • Pandas • NumPy • Matplotlib
+.</small></p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
       <br><br>
