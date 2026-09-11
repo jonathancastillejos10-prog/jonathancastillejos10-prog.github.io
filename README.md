@@ -152,14 +152,14 @@ Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y l
   <tr>
     <td style="width:50%; border: 1px solid #eee; padding: 15px; border-radius: 10px;">
       <h4 style="color: black;">MVP de Business Intelligence 📈</h4>
-      <p><small>Desarrollo de un MVP de Business Intelligence para analizar el desempeño comercial por región y facilitar el seguimiento de indicadores clave de ventas.
+<p><small>Desarrollo de un MVP de Business Intelligence para analizar el desempeño comercial por región y facilitar el seguimiento de indicadores clave de ventas.
 
 🛠️ Tecnologías: Excel Avanzado, análisis de datos, KPIs y visualización de datos.
 
 📊 Resultado: Construcción de un dashboard comercial para comparar el desempeño de distintas regiones, identificar tendencias y detectar oportunidades de mejora a partir de indicadores de ventas.
 
-💡 Enfoque: Transformación de datos operativos en información visual y estructurada para facilitar el análisis y apoyar la toma de decisiones basada en datos.
-.</small></p>
+💡 Enfoque: Transformación de datos operativos en información visual y estructurada para facilitar el análisis y apoyar la toma de decisiones basada en datos.</small></p>      
+</small></p>
       <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"> 
       <img src="https://img.shields.io/badge/Dashboards-orange?style=flat-square">
       <br><br>
@@ -186,10 +186,6 @@ Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y l
 
 ## 📊 Habilidades y Actividad
 <div align="center">
-  <img src="https://img.shields.io/badge/Data_Analysis-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visualization-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Business_Intelligence-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   
   <br><br>
   
