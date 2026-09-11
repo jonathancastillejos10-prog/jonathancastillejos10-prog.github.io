@@ -55,8 +55,6 @@ Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y l
 
 ---
 
----
-
 ## 📂 Proyectos Destacados
 ### 1. RappiPlus — Data Analytics & Business Intelligence 📊
 
@@ -105,7 +103,7 @@ Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y l
       <b>Acción:</b> Agregación de grandes volúmenes de datos con SQL (PostgreSQL) y desarrollo de un Dashboard ágil en Google Sheets.<br>
       <b>Resultado:</b> Aislamiento de categorías de alta rotación y propuesta de redistribución de layout basada en margen neto.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=mysql&logoColor=white"> 
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white">
         <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white"> 
         <img src="https://img.shields.io/badge/BI-FF6F00?style=flat-square">
       </p>
@@ -169,16 +167,12 @@ Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y l
     </td>
     <td style="width:50%; border: 1px solid #eee; padding: 15px; border-radius: 10px;">
       <h4 style="color: black;">Movilidad Urbana y Productividad en LATAM 🐍</h4>
-      <p><small>### 🎯 Problema
-Análisis de datos de movilidad urbana en Latinoamérica para identificar patrones de desplazamiento y su relación con indicadores de productividad.
+      <p><small>
+<b>🎯 Problema:</b> Análisis de datos de movilidad urbana en Latinoamérica para identificar patrones de desplazamiento y su relación con indicadores de productividad.<br><br>
 
-🛠️ Tecnologías: Python, Pandas, NumPy y Matplotlib.
+<b>🛠️ Tecnologías:</b> Python, Pandas, NumPy y Matplotlib.<br><br>
 
-📊 Resultado: Integración y limpieza de múltiples fuentes de datos, análisis exploratorio y visualización de indicadores para identificar patrones de movilidad y relaciones entre variables urbanas y de productividad.
-
-### 🛠️ Tecnologías
-
-Python • Pandas • NumPy • Matplotlib
+<b>📊 Resultado:</b> Integración y limpieza de múltiples fuentes de datos, análisis exploratorio y visualización de indicadores para identificar patrones de movilidad y relaciones entre variables urbanas y de productividad.
 .</small></p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
