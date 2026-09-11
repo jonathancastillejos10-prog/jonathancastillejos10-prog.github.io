@@ -158,7 +158,7 @@ Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y l
 
 📊 Resultado: Construcción de un dashboard comercial para comparar el desempeño de distintas regiones, identificar tendencias y detectar oportunidades de mejora a partir de indicadores de ventas.
 
-💡 Enfoque: Transformación de datos operativos en información visual y estructurada para facilitar el análisis y apoyar la toma de decisiones basada en datos.</small></p>      
+💡 Enfoque: Transformación de datos operativos en información visual y estructurada para facilitar el análisis y apoyar la toma de decisiones basada en datos.      
 </small></p>
       <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"> 
       <img src="https://img.shields.io/badge/Dashboards-orange?style=flat-square">
