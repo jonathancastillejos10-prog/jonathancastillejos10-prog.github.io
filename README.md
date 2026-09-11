@@ -173,7 +173,7 @@ Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y l
 <b>🛠️ Tecnologías:</b> Python, Pandas, NumPy y Matplotlib.<br><br>
 
 <b>📊 Resultado:</b> Integración y limpieza de múltiples fuentes de datos, análisis exploratorio y visualización de indicadores para identificar patrones de movilidad y relaciones entre variables urbanas y de productividad.
-.</small></p>
+</small></p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
       <br><br>
