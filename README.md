@@ -181,7 +181,7 @@ Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y l
     </td>
   </tr>
 </table>
-###4. Análisis de Rendimiento de una Planta Solar ☀️
+### **4. Análisis de Rendimiento de una Planta Solar ☀️**
 
 > **Análisis exploratorio de datos para evaluar el desempeño de inversores fotovoltaicos, identificar patrones de bajo rendimiento y detectar eventos de generación nula durante las horas productivas.**
 
