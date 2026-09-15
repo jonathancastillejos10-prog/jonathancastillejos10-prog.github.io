@@ -181,6 +181,42 @@ Ingeniero Mecánico con sólida trayectoria en gestión de activos críticos y l
     </td>
   </tr>
 </table>
+### 4. Análisis de Rendimiento de una Planta Solar ☀️
+
+> **Análisis exploratorio de datos para evaluar el desempeño de inversores fotovoltaicos, identificar patrones de bajo rendimiento y detectar eventos de generación nula durante las horas productivas.**
+
+| 🎯 Problema                                                                                                                                                        | 🛠️ Tecnologías                                                 | 📊 Resultado                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Analizar el rendimiento de los inversores de una planta solar e identificar patrones de bajo desempeño y eventos de generación nula durante las horas productivas. | **Python** · **Pandas** · **Matplotlib** · **Jupyter Notebook** | Identificación de dos inversores con menor desempeño relativo y estimación de una pérdida de generación de **89.96 kWh**. |
+
+#### 📈 Principales indicadores
+
+* 🚨 **Ceros diurnos:** 4.44% y 4.27%
+* ⚡ **Potencia promedio — inversores analizados:** 5,424.97 W
+* ⚡ **Potencia promedio — resto de inversores:** 5,922.96 W
+* 📉 **Diferencia frente al resto:** 8.40%
+* 📉 **Diferencia frente al mejor inversor:** 10.73%
+* 🔋 **Pérdida estimada en eventos compartidos:** 89.96 kWh
+
+#### 🔎 Análisis realizado
+
+* 🧹 Limpieza y preparación de datos.
+* 🕒 Conversión y validación de fechas.
+* ⚡ Análisis de generación eléctrica por hora.
+* 🌞 Análisis específico del periodo diurno.
+* 🚨 Identificación de registros con `DC_POWER = 0` durante horas productivas.
+* 🔌 Comparación del rendimiento entre inversores.
+* 📊 Análisis del rendimiento por hora.
+* 🔍 Identificación de eventos de generación nula simultánea.
+* 💡 Estimación de pérdida de generación.
+
+#### 🛠️ Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square\&logo=matplotlib\&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square\&logo=jupyter\&logoColor=white)
+
+<p align="center">
+  <a href="./Proyecto_Planta_Solar/"><b>☀️ Ver Proyecto Completo</b></a>
+</p>
 
 ---
 
