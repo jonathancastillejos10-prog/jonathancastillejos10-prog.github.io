@@ -117,7 +117,7 @@ De esta cantidad:
 ## 📊 Visualizaciones
 
 El notebook contiene visualizaciones para facilitar la interpretación de los resultados:
-
+![Gráfica DC y AC Power](Grafica_dc_ac_power.png)
 ### Comparación de potencia promedio
 
 Se compara la potencia promedio entre:
