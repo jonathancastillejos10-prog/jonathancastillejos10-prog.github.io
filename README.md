@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="foto-perfil-jonathan-modified.png" width="160px" style="border-radius: 50%; border: 3px solid #0077B5;">
+  <img src="foto-perfil-jonathan.png" width="160px" style="border-radius: 50%; border: 3px solid #0077B5;">
   <h1>¡Hola! Soy Jonathan Castillejos 👋</h1>
   <p><strong>Data Analyst | Business Intelligence | Python • SQL • Power BI • PostgreSQL
 </strong></p>
